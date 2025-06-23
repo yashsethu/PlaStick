@@ -26,4 +26,8 @@ Now, I could assemble the gimbal. I used some pictures as reference and made up 
 
 But wait. This isn't satisfying. There's nothing to move, nothing to prove this actually works. Why not actually make it work in CAD, so I don't have to worry later? Welp, that's what I wasted time doing.
 
-![image](https://github.com/user-attachments/assets/30f343dd-eb14-4674-95ee-13e32a8b2f48)
+![Screen Recording 2025-06-22 at 10 00 04 PM](https://github.com/user-attachments/assets/efaea724-4660-4948-ad7c-04959a51f2ef)
+
+# Part 2: The box
+
+The other problem with Olukelo's design is that, well, it's just a gimbal. To make this a worthwhile design, I have to design an enclosure for the gimbal. 
