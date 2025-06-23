@@ -4,7 +4,7 @@ So, I really want a HOTAS flight stick, something like this:
 
 ![image](https://github.com/user-attachments/assets/b3d32661-1bde-44a2-8c84-264a3f0a83ee)
 
-But commercial HOTAS kits and stuff already online is either too expensive or too complicated for me. I want something minimal and functional.
+But commercial HOTAS kits and stuff already online is either too expensive or too complicated for me. I want something minimal (at least mechanically) and functional.
 
 # Part 1: The gimbal
 
