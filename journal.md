@@ -101,6 +101,6 @@ We're calling this a HOTAS system, but essentially, it's just a really fancy and
 
 Really, this wiring diagram isn't super neccesary, because I will essentially be connecting 20-30 buttons and two hall-effect sensors, which doesn't really require much interfacing, but it's good to be planned out!
 
-![image](https://github.com/user-attachments/assets/a702fa18-3687-42b9-9225-fada0054100c)
+![image](https://github.com/user-attachments/assets/99f70349-d66c-4777-b9bf-df9741edd17d)
 
 With this, I think we can call this done!
