@@ -65,3 +65,42 @@ Final assembly complete!
 ![image](https://github.com/user-attachments/assets/be48f1fc-3eed-46d5-9dc3-27b8f096dbcd)
 
 Now, for the final touch, I used some eyeballing and measurement to add screws into the right places, so it is truly exactly what I will be building
+
+![image](https://github.com/user-attachments/assets/3da5caf4-e325-41e5-a60d-8b885094bda9)
+
+HOTAS stick done!
+
+# Part 4: Integration
+
+Now, how to connect these two together? I have to keep a few things in mind:
+- Ideally, it should be very very hard to rotate the HOTAS
+- The connection should be rigid but easy to take apart (bolts, threads)
+- There needs to be wire management built in (i.e wires run through the part)th
+
+With a few basic sketches:
+
+![image](https://github.com/user-attachments/assets/325f0020-ece8-4e16-9c78-1fd66cd858f7)
+
+I created a lever arm to be able to integrate seamlessly with another piece:
+
+![image](https://github.com/user-attachments/assets/c2e57d2f-990a-4805-b21a-fe40344d2680)
+
+Then, I did the same to create one for the stick, careful with tolerances:
+
+![image](https://github.com/user-attachments/assets/d2fd6453-e2a2-468b-87f8-f2bbe8d4d996)
+
+![image](https://github.com/user-attachments/assets/7501e0d7-4973-47e9-95c4-d013abd14ffc)
+
+Now, I can complete the full assembly!
+
+![Screen Recording 2025-06-24 at 11 54 09 AM](https://github.com/user-attachments/assets/44082947-4d69-46e9-ae55-86da6ebb8f54)
+
+# Part 5: The electronics
+
+We're calling this a HOTAS system, but essentially, it's just a really fancy and big mouse. Thus, we need a microcontroller that can become a mouse. One of the easiest ones is the Arduino Pro Micro, so that's what I'll be going with!
+
+Really, this wiring diagram isn't super neccesary, because I will essentially be connecting 20-30 buttons and two hall-effect sensors, which doesn't really require much interfacing, but it's good to be planned out!
+
+![image](https://github.com/user-attachments/assets/a702fa18-3687-42b9-9225-fada0054100c)
+
+With this, I think we can call this done!
