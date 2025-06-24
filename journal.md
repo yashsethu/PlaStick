@@ -1,4 +1,4 @@
-# Design Journal
+# Design Journal - Total time: 25 hrs
 
 So, I really want a HOTAS flight stick, something like this:
 
@@ -6,7 +6,7 @@ So, I really want a HOTAS flight stick, something like this:
 
 But commercial HOTAS kits and stuff already online is either too expensive or too complicated for me. I want something minimal (at least mechanically) and functional.
 
-# Part 1: The gimbal
+# Part 1: The gimbal (3 hrs)
 
 Before going crazy on the actual stick, I thought it would be nice to get the gimal out of the way. The first choice for most DIYers out there (according to Reddit) is a gimbal designed by (Oluleko)[https://www.thingiverse.com/thing:2496028/comments].
 
@@ -28,7 +28,7 @@ But wait. This isn't satisfying. There's nothing to move, nothing to prove this 
 
 ![Screen Recording 2025-06-22 at 10 00 04 PM](https://github.com/user-attachments/assets/efaea724-4660-4948-ad7c-04959a51f2ef)
 
-# Part 2: The box
+# Part 2: The box (1 hr)
 
 The other problem with Olukelo's design is that, well, it's just a gimbal. To make this a worthwhile design, I have to design an enclosure for the gimbal. 
 
@@ -44,7 +44,7 @@ Then, I can add it to my assembly to check. Enclosure done! There's also enough 
 
 ![image](https://github.com/user-attachments/assets/fdda8427-1979-4a91-a710-1ae91bebc342) ![image](https://github.com/user-attachments/assets/e1c031cf-2f32-4bbf-98ac-ad7cfea5e78e)
 
-# Part 3: The stick
+# Part 3: The stick (5 hrs)
 
 I want to make this HOTAS as realistic as possible, but I don't exactly have an F-16 manual or HOTAS controller lying around to use to design one myself. I started with (this)[https://www.thingiverse.com/thing:4544115] old project to get the basic shape, something like this that I can add to:
 
@@ -70,7 +70,7 @@ Now, for the final touch, I used some eyeballing and measurement to add screws i
 
 HOTAS stick done!
 
-# Part 4: Integration
+# Part 4: Integration (2 hrs)
 
 Now, how to connect these two together? I have to keep a few things in mind:
 - Ideally, it should be very very hard to rotate the HOTAS
@@ -95,7 +95,7 @@ Now, I can complete the full assembly!
 
 ![Screen Recording 2025-06-24 at 11 54 09 AM](https://github.com/user-attachments/assets/44082947-4d69-46e9-ae55-86da6ebb8f54)
 
-# Part 5: The electronics
+# Part 5: The electronics (3 hrs)
 
 We're calling this a HOTAS system, but essentially, it's just a really fancy and big mouse. Thus, we need a microcontroller that can become a mouse. One of the easiest ones is the Arduino Pro Micro, so that's what I'll be going with!
 
