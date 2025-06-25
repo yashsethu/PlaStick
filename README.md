@@ -9,6 +9,8 @@ CAD (here)[https://cad.onshape.com/documents/f1ad626c83caf2a9154e1274/w/2f9358a0
 
 ![image](https://github.com/user-attachments/assets/f9c3b099-3a89-48da-86c4-51868f680948)
 
+These wires are soldered, not part of any PCB
+
 ## Bill of Materials
 | Quantity | Item                                | Link                |
 |----------|-------------------------------------|---------------------|
