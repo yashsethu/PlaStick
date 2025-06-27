@@ -1,5 +1,12 @@
 # Design Journal - Total time: 25 hrs
 
+---
+title: "PlaStick"
+author: "Yash Sethuraman"
+description: "An affordable, customizable HOTAS controller!"
+created_at: "2025-06-24"
+---
+
 So, I really want a HOTAS flight stick, something like this:
 
 ![image](https://github.com/user-attachments/assets/b3d32661-1bde-44a2-8c84-264a3f0a83ee)
