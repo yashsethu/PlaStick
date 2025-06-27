@@ -33,11 +33,3 @@ These wires are soldered, not part of any PCB
 **As for the Arduino Pro Micro, I am buying one direct from Sparkfun to avoid being ripped off with a non-genuine part. It costs 5-10 dollars more, but the complaints online about fake Pro Micros scare me enough into playing it safe** 
 
 **Total Price: 85.99 (this could be a little bit higher or lower depending on Prime/where you live)**
-
-## Credits
-Original gimbal concept: (Olukelo)[https://www.thingiverse.com/thing:2496028]
-The gimbal here has been loosely based on the images provided ^, as the STEP files provided were incomplete. My CAD should have a fully working and reconstructed assembly somewhat similar to what was posted
-
-F-16 flight controller model: I don't exactly have an F-16 or an F-16 manual lying around, so thanks to (JFlyer81([https://www.thingiverse.com/thing:4544115/remixes] for giving the general shape of the controller along with space for inputs, 5 way select, etc. I have successfuly interfaced this with my edited Olukelo gimbal.
-
-
